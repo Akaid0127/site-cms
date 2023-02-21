@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "types",
+  "info": {
+    "singularName": "type",
+    "pluralName": "types",
+    "displayName": "Type"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "type_item": {
+      "type": "string"
+    },
+    "type_disabled": {
+      "type": "boolean"
+    }
+  }
+}
